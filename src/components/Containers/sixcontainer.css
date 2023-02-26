@@ -1,0 +1,9 @@
+.cardhover{
+    transition: 0.5s ease-in-out;
+}
+.cardhover:hover{
+  
+    transform:  translateY(-1rem); 
+   
+}
+ 

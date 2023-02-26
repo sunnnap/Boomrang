@@ -1,0 +1,9 @@
+.routerlink {
+    text-decoration: none;
+    font-style: italic;
+    color: darkgrey;
+    font-size: 20px;
+}
+.routerlink:hover{
+color: grey;
+}

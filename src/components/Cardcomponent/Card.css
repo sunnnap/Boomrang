@@ -1,0 +1,66 @@
+/* General */
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    overflow-x: hidden;
+}
+
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    background-color: #333;
+    color: #999;
+    margin: 0;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #9C9;
+}
+
+button {
+    cursor: pointer;
+}
+
+a,
+button {
+    transition: all 0.3s ease;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    line-height: 1.6;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+p {
+    line-height: 1.8;
+    margin-bottom: 50px;
+}
+
+.hover---card {
+    transition: all 0.5s ease-in-out;
+    border-radius: 50%;
+    
+    padding-top: 1.5rem;
+}
+
+.hover---card:hover {
+
+    transform: translateY(-1.2rem);
+    border-radius: 10% ;
+    border: 0.7em 0.7em;
+}

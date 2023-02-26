@@ -1,0 +1,19 @@
+.font---style{
+    letter-spacing: 0.1rem;
+}
+.font--style--margin{
+    margin-top: 2rem;
+}
+.first--content{
+   color: #788487;
+   letter-spacing: 0em;
+}
+.icon-style{
+    color: #c9d2d4;
+}
+.image--hover{
+    transition: all 0.5s;
+}
+.image--hover:hover{
+     transform:scale(1.9);
+}

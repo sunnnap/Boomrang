@@ -1,0 +1,29 @@
+ div.icons {
+    animation: MoveUpDown 1s linear infinite;
+    font-size: 3rem;
+    color: rgb(150, 150, 228);
+    bottom: 0;
+  }
+  div.icons:hover{
+    transform: translatey(-1rem);
+    transition: 0.5s;
+  }
+  .bgimage{
+    background-image: url("./Image/bgimage2.jpeg");
+    width: 100%;
+    opacity: 0.9;
+     
+    height:40rem;
+    background-repeat: no-repeat;
+   
+  }
+
+  .btnTop{
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+  }
+  .btnNone{
+    border: none;
+  }
+   

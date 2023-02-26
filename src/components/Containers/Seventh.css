@@ -1,0 +1,11 @@
+div.icons {
+    animation: MoveUpDown 1s linear infinite;
+    font-size: 3rem;
+    color: rgb(150, 150, 228);
+    bottom: 0;
+    transition: all 0.5s ease-in-out;
+  }
+  div.icons:hover{
+    transform: translatey(-1rem);     
+  }
+  
